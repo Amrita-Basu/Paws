@@ -1,8 +1,7 @@
 Pets App
 ===================================
 
-This app displays a list of pets and their related data that the user inputs.
-Used in a Udacity course in the Android Basics Nanodegree by Google.
+An app for storing and tracking details of pets. Built as a part of an Android course designed by Google on Udacity.   
 
 Pre-requisites
 --------------
